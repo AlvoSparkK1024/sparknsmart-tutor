@@ -1,0 +1,9 @@
+scenarios:
+  - name: "High AC Usage"
+    appliances: "src/data/samples/appliances.json"
+    tariff: "src/data/samples/tariff_telangana.json"
+    expected_actions: 2
+  - name: "Low Power Factor"
+    appliances: "src/data/samples/appliances.json" # reusing for demo
+    tariff: "src/data/samples/tariff_telangana.json"
+    expected_issues: ["Low Power Factor"]

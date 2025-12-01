@@ -1,0 +1,33 @@
+2025-11-30 19:19:16,468 - INFO - Starting SPARKnSMART (SNS) Demo...
+2025-11-30 19:19:16,469 - INFO - Running scenario...
+2025-11-30 19:19:17,525 - INFO - Chromium init'ed with kwargs {}
+2025-11-30 19:19:17,554 - INFO - Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-11-30 19:19:17,557 - INFO - Temp directory created: C:\Users\Karthik\AppData\Local\Temp\tmpyfihnpz5.
+2025-11-30 19:19:17,558 - INFO - Opening browser.
+2025-11-30 19:19:17,561 - INFO - Temp directory created: C:\Users\Karthik\AppData\Local\Temp\tmp0oz1xv1n.
+2025-11-30 19:19:17,561 - INFO - Temporary directory at: C:\Users\Karthik\AppData\Local\Temp\tmp0oz1xv1n
+2025-11-30 19:19:18,443 - INFO - Conforming 1 to file:///C:/Users/Karthik/AppData/Local/Temp/tmpyfihnpz5/index.html
+2025-11-30 19:19:18,443 - INFO - Waiting on all navigates
+2025-11-30 19:19:20,724 - INFO - All navigates done, putting them all in queue.
+2025-11-30 19:19:20,726 - INFO - Getting tab from queue (has 1)
+2025-11-30 19:19:20,726 - INFO - Got 1426
+2025-11-30 19:19:20,727 - INFO - Processing Monthly_Cost_per_Appliance.png
+2025-11-30 19:19:20,727 - INFO - Sending big command for Monthly_Cost_per_Appliance.png.
+2025-11-30 19:19:20,874 - INFO - Sent big command for Monthly_Cost_per_Appliance.png.
+2025-11-30 19:19:20,874 - INFO - Reloading tab 1426 before return.
+2025-11-30 19:19:21,075 - INFO - Putting tab 1426 back (queue size: 0).
+2025-11-30 19:19:21,075 - INFO - Waiting for all cleanups to finish.
+2025-11-30 19:19:21,076 - INFO - Exiting Kaleido
+2025-11-30 19:19:21,076 - INFO - Closing browser.
+2025-11-30 19:19:21,124 - INFO - Closing browser.
+2025-11-30 19:19:21,126 - INFO - TemporaryDirectory.cleanup() worked.
+2025-11-30 19:19:21,127 - INFO - shutil.rmtree worked.
+2025-11-30 19:19:21,127 - INFO - Cancelling tasks.
+2025-11-30 19:19:21,127 - INFO - Exiting Kaleido/Choreo
+2025-11-30 19:19:21,490 - INFO - TemporaryDirectory.cleanup() worked.
+2025-11-30 19:19:21,490 - INFO - shutil.rmtree worked.
+2025-11-30 19:19:21,491 - INFO - TemporaryDirectory.cleanup() worked.
+2025-11-30 19:19:21,491 - INFO - shutil.rmtree worked.
+2025-11-30 19:19:21,492 - INFO - Cancelling tasks.
+2025-11-30 19:19:21,492 - INFO - Exiting Kaleido/Choreo
+2025-11-30 19:19:31,508 - INFO - Scenario complete. Shutting down...

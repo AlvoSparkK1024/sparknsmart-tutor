@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Air Conditioner (1.5 Ton)",
+        "power_watts": 1500,
+        "daily_usage_hours": 8,
+        "power_factor": 0.85,
+        "harmonics_thd": 12.0
+    },
+    {
+        "name": "Refrigerator",
+        "power_watts": 200,
+        "daily_usage_hours": 24,
+        "power_factor": 0.95,
+        "harmonics_thd": 3.0
+    },
+    {
+        "name": "Washing Machine",
+        "power_watts": 500,
+        "daily_usage_hours": 1,
+        "power_factor": 0.80,
+        "harmonics_thd": 8.0
+    }
+]

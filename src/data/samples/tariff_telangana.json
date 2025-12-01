@@ -1,0 +1,18 @@
+{
+    "region": "Telangana",
+    "currency": "INR",
+    "tiers": [
+        {
+            "limit": 100,
+            "rate": 5.0
+        },
+        {
+            "limit": 200,
+            "rate": 7.2
+        },
+        {
+            "limit": 9999,
+            "rate": 9.5
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Refrigerator",
+        "power_watts": 150,
+        "daily_usage_hours": 24,
+        "power_factor": 0.9,
+        "harmonics_thd": 0.1
+    },
+    {
+        "name": "Air Conditioner",
+        "power_watts": 1500,
+        "daily_usage_hours": 8,
+        "power_factor": 0.95,
+        "harmonics_thd": 0.05
+    },
+    {
+        "name": "Washing Machine",
+        "power_watts": 500,
+        "daily_usage_hours": 1,
+        "power_factor": 0.85,
+        "harmonics_thd": 0.15
+    }
+]

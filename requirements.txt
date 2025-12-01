@@ -1,0 +1,13 @@
+pydantic
+pandas
+plotly
+numpy
+PyYAML
+google-generativeai
+streamlit
+python-dotenv
+kaleido
+nest_asyncio
+pypdf
+Pillow
+PyMuPDF

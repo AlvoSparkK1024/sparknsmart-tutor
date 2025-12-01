@@ -1,0 +1,2 @@
+Python is working
+CWD: C:\Users\Karthik\.gemini\antigravity\scratch\energy_tutor
